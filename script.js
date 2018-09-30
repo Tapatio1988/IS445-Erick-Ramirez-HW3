@@ -35,4 +35,3 @@ function calcfunction() {
         document.getElementById('display1').innerHTML = "Invalid trigger input, please reload and try again";
     }
 }
-}
